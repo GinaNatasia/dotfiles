@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = g.natasia@live.nl
+	name = ginaslager
